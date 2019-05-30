@@ -19,7 +19,7 @@ $ open https://git-scm.com
 # Объявление Необходимых переменных
 $ export GITHUB_USERNAME=<имя_пользователя>
 $ export GITHUB_EMAIL=<адрес_почтового_ящика>
-$ export GITHUB_TOKEN=<сгенирированный_токен>
+$ export GITHUB_TOKEN=<сгенирированнй_токен>
 
 # присвоение edit вызов удобного текстового редактора
 $ alias edit=<nano|vi|vim|subl>
